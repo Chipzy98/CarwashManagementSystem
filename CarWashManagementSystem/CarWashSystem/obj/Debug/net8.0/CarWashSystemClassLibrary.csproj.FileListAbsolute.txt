@@ -1,0 +1,12 @@
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\bin\Debug\net8.0\CarWashSystemClassLibrary.deps.json
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\bin\Debug\net8.0\CarWashSystemClassLibrary.dll
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\bin\Debug\net8.0\CarWashSystemClassLibrary.pdb
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\CarWashSystemClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\CarWashSystemClassLibrary.AssemblyInfoInputs.cache
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\CarWashSystemClassLibrary.AssemblyInfo.cs
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\CarWashSystemClassLibrary.csproj.CoreCompileInputs.cache
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\CarWashSystemClassLibrary.dll
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\refint\CarWashSystemClassLibrary.dll
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\CarWashSystemClassLibrary.pdb
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\ref\CarWashSystemClassLibrary.dll
+E:\OFFICE\CWMS\CarWashManagementSystem\CarWashSystem\obj\Debug\net8.0\CarWashSystemClassLibrary.csproj.AssemblyReference.cache

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|e:\\office\\cwms\\carwashmanagementsystem\\carwashmanagementsystemfrm\\pl\\frmcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmcashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmcashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmcashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmcashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmviewservicehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmviewservicehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmviewpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmviewpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmaddnewemplyoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmaddnewemplyoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmaddnewemplyoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmaddnewemplyoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|E:\\OFFICE\\CWMS\\CarWashManagementSystem\\carwashmanagementsystemfrm\\pl\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED38B36-B3BB-4634-BB89-3CCE05BC473E}|CarWashManagementSystemFrm\\CarWashManagementSystemFrm.csproj|solutionrelative:carwashmanagementsystemfrm\\pl\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmViewPayments.cs",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmViewPayments.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmViewPayments.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmViewPayments.cs",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmViewPayments.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:35:39.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCashPayment.cs",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmCashPayment.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmCashPayment.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmCashPayment.cs",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmCashPayment.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:57:18.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCashPayment.cs [Design]",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmCashPayment.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmCashPayment.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmCashPayment.cs [Design]",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmCashPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:56:01.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCardPayment.cs",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmCardPayment.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmCardPayment.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmCardPayment.cs",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmCardPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:36.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmViewServiceHistory.cs [Design]",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmViewServiceHistory.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmViewServiceHistory.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmViewServiceHistory.cs [Design]",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmViewServiceHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:35:22.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCardPayment.cs [Design]",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmCardPayment.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmCardPayment.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmCardPayment.cs [Design]",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmCardPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:34.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAppointment.cs [Design]",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAppointment.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmAppointment.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAppointment.cs [Design]",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:28.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAddNewEmplyoyee.cs",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddNewEmplyoyee.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmAddNewEmplyoyee.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddNewEmplyoyee.cs",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmAddNewEmplyoyee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmAddNewEmplyoyee.cs [Design]",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddNewEmplyoyee.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmAddNewEmplyoyee.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddNewEmplyoyee.cs [Design]",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmAddNewEmplyoyee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:21.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAddEmployee.cs",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddEmployee.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmAddEmployee.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddEmployee.cs",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmAddEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:17.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAddEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddEmployee.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmAddEmployee.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddEmployee.cs [Design]",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmAddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:15.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmAddCustomer.cs",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddCustomer.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmAddCustomer.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddCustomer.cs",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmAddCustomer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:09.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAddCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddCustomer.cs",
+              "RelativeDocumentMoniker": "CarWashManagementSystemFrm\\PL\\FrmAddCustomer.cs",
+              "ToolTip": "E:\\OFFICE\\CWMS\\CarWashManagementSystem\\CarWashManagementSystemFrm\\PL\\FrmAddCustomer.cs [Design]",
+              "RelativeToolTip": "CarWashManagementSystemFrm\\PL\\FrmAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:46:07.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
